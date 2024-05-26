@@ -105,11 +105,11 @@
   "Addons": [
     {
       "id": 1,
-      "name_add": "Technical Vehicle",
-      "addB_url": "https://aliendro.id/uploads/demo/premiummods/technical bp.mcaddon",
-      "addR_url": "https://aliendro.id/uploads/demo/premiummods/technical rp.mcaddon",
-      "view_add": "file:///android_asset/cat.png",
-      "des_add": "https://aliendro.id/uploads/demo/premiummods/car.html"
+      "name_add": "Addon: More Simple Structures",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=1832&lang=en",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=1832&lang=en",
+      "view_add": "https://mcpeland.io/uploads/posts/2024-02/mss-thumbnail-mcpedl_1-520x245.png",
+      "des_add": ""
     },
     {
       "id": 2,
