@@ -106,26 +106,26 @@
     {
       "id": 1,
       "name_add": "Addon: More Simple Structures",
-      "addB_url": "https://mcpeland.io/index.php?do=download&id=1832&lang=en",
-      "addR_url": "https://mcpeland.io/index.php?do=download&id=1832&lang=en",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=1832&lang=en B.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=1832&lang=en R.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2024-02/mss-thumbnail-mcpedl_1-520x245.png",
-      "des_add": ""
+      "des_add": "https://mcpeland.io/uploads/posts/2024-02/mss-thumbnail-mcpedl_1-520x245.png"
     },
     {
       "id": 2,
       "name_add": "Eevee Family Battle and Bank Pets",
-      "addB_url": "https://aliendro.id/uploads/demo/premiummods/Eevee B.mcaddon",
-      "addR_url": "https://aliendro.id/uploads/demo/premiummods/Eevee R.mcaddon",
-      "view_add": "https://aliendro.id/uploads/demo/premiummods/eve.png",
-      "des_add": "file:///android_asset/sample_addons.html"
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=1733&lang=en B.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=1733&lang=en",
+      "view_add": "https://mcpeland.io/uploads/posts/2023-11/medium/-112-more-structures_2.jpg",
+      "des_add": "https://mcpeland.io/uploads/posts/2023-11/medium/-112-more-structures_2.jpg"
     },
     {
       "id": 3,
-      "name_add": "Flora Fishing",
-      "addB_url": "https://aliendro.id/uploads/demo/premiummods/Flora_Fishing R.mcaddon",
-      "addR_url": "https://aliendro.id/uploads/demo/premiummods/Flora_Fishing R.mcaddon",
-      "view_add": "file:///android_asset/fish.png",
-      "des_add": "https://aliendro.id/uploads/demo/premiummods/fish.html"
+      "name_add": "Addon: Abandoned & Ruin Structures",
+      "addB_url": "https://aliendro.id/uploads/demo/premiummods/Flora_Fishing B.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=2000&lang=en R.mcaddon",
+      "view_add": "https://mcpeland.io/uploads/posts/2022-11/abandoned-ruin-structures_1-520x245.png",
+      "des_add": "https://mcpeland.io/uploads/posts/2022-11/abandoned-ruin-structures_1-520x245.png"
     }
   ],
   "Maps": [
