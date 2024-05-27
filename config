@@ -382,6 +382,86 @@
       "addR_url": "https://mcpeland.io/index.php?do=download&id=1779&lang=en R.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2023-12/mcpedl.png",
       "des_add": "https://mcpeland.io/uploads/posts/2023-12/mcpedl.png"
+    },
+   {
+      "id": 36,
+      "name_add": "Addon: Instant Houses",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=1657&lang=en B.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=1657&lang=en R.mcaddon",
+      "view_add": "https://mcpeland.io/uploads/posts/2023-10/1673384458022_1-520x245.png",
+      "des_add": "https://mcpeland.io/uploads/posts/2023-10/1673384458022_1-520x245.png"
+    },
+   {
+      "id": 37,
+      "name_add": "Addon: Lance Furniture",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=1350&lang=en B.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=955&lang=en R.mcaddon",
+      "view_add": "https://mcpeland.io/uploads/posts/2022-04/working-security-cameras-lance-furniture-beta_1-520x245.png",
+      "des_add":   "https://mcpeland.io/uploads/posts/2022-04/working-security-cameras-lance-furniture-beta_1-520x245.png"
+    },
+   {
+      "id": 38,
+      "name_add": "Addon: Jey's Superheroes",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=1813&lang=en B.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=1813&lang=en R.mcaddon",
+      "view_add": "https://mcpeland.io/uploads/posts/2024-01/untitled5720231202114659_1-520x245.png",
+      "des_add": "https://mcpeland.io/uploads/posts/2024-01/untitled5720231202114659_1-520x245.png"
+    },
+   {
+      "id": 39,
+      "name_add": "Addon: SpiderMan: Into The CraftingVerse",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=1127&lang=en B.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=1127&lang=en R.mcaddon",
+      "view_add": "https://mcpeland.io/uploads/posts/2022-07/sas_1-520x245.png",
+      "des_add": "https://mcpeland.io/uploads/posts/2022-07/sas_1-520x245.png"
+    },
+   {
+      "id": 40,
+      "name_add": "Addon: Minecraft Spider-Man",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=475&lang=en B.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=475&lang=en R.mcaddon",
+      "view_add": "https://mcpeland.io/uploads/posts/2022-03/picsart-photo-editor-mod1207095741_1-520x245.png",
+      "des_add": "https://mcpeland.io/uploads/posts/2022-03/picsart-photo-editor-mod1207095741_1-520x245.png"
+    },
+   {
+      "id": 41,
+      "name_add": "Addon: ArathNido's FNAF",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=1739&lang=en B.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=1739&lang=en R.mcaddon",
+      "view_add": "https://mcpeland.io/uploads/posts/2023-11/fase-2_1-520x245.png",
+      "des_add": "https://mcpeland.io/uploads/posts/2023-11/fase-2_1-520x245.png"
+    },
+  {
+      "id": 42,
+      "name_add": "Addon: Zombie Apocalypse",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=120&lang=en B.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=1638&lang=en R.mcaddon",
+      "view_add": "https://mcpeland.io/uploads/posts/2022-01/could-u-survive-apocalypse-2_1-520x245.png",
+      "des_add": "https://mcpeland.io/uploads/posts/2022-01/could-u-survive-apocalypse-2_1-520x245.png"
+    },
+  {
+      "id": 43,
+      "name_add": "Addon: Cartoon Skibidi Toilet Models",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=1607&lang=en B.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=1607&lang=en R.mcaddon",
+      "view_add": "https://mcpeland.io/uploads/posts/2023-07/20230709165030_1-520x245.png",
+      "des_add": "https://mcpeland.io/uploads/posts/2023-07/20230709165030_1-520x245.png"
+    },
+  {
+      "id": 44,
+      "name_add": "Addon: Minecraft Rainbow Friends",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=1593&lang=en B.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=1593&lang=en R.mcaddon",
+      "view_add": "https://mcpeland.io/uploads/posts/2023-06/rainbowf_ag1.jpg",
+      "des_add": "https://mcpeland.io/uploads/posts/2023-06/rainbowf_ag1.jpg"
+    },
+  {
+      "id": 45,
+      "name_add": "Addon: Stupidly OP Tools",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=1586&lang=en B.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=1586&lang=en R.mcaddon",
+      "view_add": "https://mcpeland.io/uploads/posts/2022-02/captsdfsdfsgure_1-520x245.png",
+      "des_add": "https://mcpeland.io/uploads/posts/2022-02/captsdfsdfsgure_1-520x245.png"
     }
   ],
   "Maps": [
